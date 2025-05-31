@@ -23,3 +23,6 @@ This project uses **CuPy**, **Matplotlib**, and a custom **Canvas** class for ef
 
 ```bash
 pip install numpy matplotlib pillow
+```
+
+## Examples
