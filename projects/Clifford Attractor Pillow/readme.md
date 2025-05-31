@@ -25,4 +25,24 @@ This project uses **CuPy**, **Matplotlib**, and a custom **Canvas** class for ef
 pip install numpy matplotlib pillow
 ```
 
-## Examples
+## Example Visuals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
