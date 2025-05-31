@@ -27,6 +27,9 @@ pip install numpy matplotlib pillow
 
 ## Example Visuals
 
+![Sphere Brain](Outputs/clifford_attractor.png-1.24458046630025_-1.25191834103316_-1.81590817030519_-1.90866735205054.png)
+
+
 
 
 
