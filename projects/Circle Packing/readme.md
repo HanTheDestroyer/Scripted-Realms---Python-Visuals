@@ -26,7 +26,7 @@ This project implements a **randomized circle packing algorithm** in Python, usi
 
 ## Example Output
 
-![Example Output](projects/Circle%20Packing/Output/packed_circles3.png)
+![Example Output](Output/packed_circles3.png)
 
 ## Usage
 
