@@ -44,6 +44,11 @@ python animation.py
 - Adjust pattern transition timing and thresholds in `particle.py`.
 - Modify shaders in the `Shaders/` folder for different visual effects.
 
+## Example Output
+
+[▶️ Watch example video (MP4)](https://github.com/HanTheDestroyer/Scripted-Realms---Python-Visuals/raw/main/projects/Chladni%20Patterns/Output/m2-res_1080p.mp4)
+
+
 ## References
 
 - [Chladni Patterns - Wikipedia](https://en.wikipedia.org/wiki/Chladni_figure)
