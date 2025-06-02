@@ -8,8 +8,9 @@ Visual experiments, mathematical art, and generative graphics — designed for l
 
 ## Included Projects
 
-- **Clifford Attractor**: Explore chaotic beauty with dynamic attractor visualizations.
-- **Circle Packing**    : Explore randomness with circle packing visualization.
+- **Clifford Attractor**
+- **Circle Packing**
+- **Chladni Patterns**
 
 ---
 
