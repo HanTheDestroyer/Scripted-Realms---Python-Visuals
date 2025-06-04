@@ -11,6 +11,8 @@ Visual experiments, mathematical art, and generative graphics — designed for l
 - **Clifford Attractor**
 - **Circle Packing**
 - **Chladni Patterns**
+- **Night Sky**
+- **Perlin Noise**
 
 ---
 
