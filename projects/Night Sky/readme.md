@@ -59,6 +59,10 @@ vertex_shader=r'C:/Users/yourname/Documents/Creative Coding/P06 - Night Sky/shad
 fragment_shader=r'C:/Users/yourname/Documents/Creative Coding/P06 - Night Sky/shaders/particle.frag'
 ```
 
+## Example Output
+
+![Night sky animation output](output/image.png)
+
 ## License
 
 This project is for educational and creative coding purposes.
