@@ -13,6 +13,8 @@ Visual experiments, mathematical art, and generative graphics — designed for l
 - **Chladni Patterns**
 - **Night Sky**
 - **Perlin Noise**
+- **Radial Outburst**
+- **Rect Packing**
 
 ---
 
