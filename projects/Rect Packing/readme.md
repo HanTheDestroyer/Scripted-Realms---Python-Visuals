@@ -36,7 +36,7 @@ This will generate an output image and print the packing percentage.
 
 Below is an example of the generated packing image:
 
-![Example Packing](Outputs/image.png)
+![Example Packing](output/image.png)
 
 ## File Structure
 
