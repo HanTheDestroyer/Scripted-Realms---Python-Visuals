@@ -15,6 +15,7 @@ Visual experiments, mathematical art, and generative graphics — designed for l
 - **Perlin Noise**
 - **Radial Outburst**
 - **Rect Packing**
+- **Recursive Tiles**
 
 ---
 
