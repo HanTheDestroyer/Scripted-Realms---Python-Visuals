@@ -11,7 +11,7 @@ Recursive Tiles is a generative art project that creates a fractal-like pattern 
 
 ## Example Output
 
-![Recursive Tiles Example](recursive_tiles.png)
+![Recursive Tiles Example](output/recursive_tiles.png)
 
 ## Usage
 
