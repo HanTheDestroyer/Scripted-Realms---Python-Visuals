@@ -16,6 +16,7 @@ Visual experiments, mathematical art, and generative graphics — designed for l
 - **Radial Outburst**
 - **Rect Packing**
 - **Recursive Tiles**
+- **Mandelbrot Kaleidoscope**
 
 ---
 
