@@ -33,8 +33,8 @@ This project visualizes the Mandelbrot set with kaleidoscopic symmetry using Mod
 
 ## Example Output
 
-![Mandelbrot Kaleidoscope Example](path/to/example_image.png)
-*Replace with your own screenshot.*
+![Mandelbrot Kaleidoscope Example](output/image.png)
+
 
 ## Notes
 
