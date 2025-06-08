@@ -39,7 +39,7 @@ Aetherflow is a real-time GPU-accelerated particle flow visualizer using Perlin 
 
 ## Example Output
 
-![Aetherflow Example](path/to/example_image.png)
+![Aetherflow Example](output/image.png)
 *Replace with your own screenshot.*
 
 ---
